@@ -58,7 +58,4 @@ Learnings
 -Improved understanding of health data patterns in predictive modeling
 
 
-Languages
-Jupyter Notebook
-100.0%
-Footer
+
